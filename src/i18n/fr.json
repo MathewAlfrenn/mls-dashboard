@@ -1,0 +1,19 @@
+{
+  "select_player": "Sélectionner un joueur",
+  "select_stat": "Sélectionner une statistique",
+  "goals": "Buts",
+  "assists": "Passes décisives",
+  "passes": "Passes",
+  "stat_comparison": "Tableau de bord comparatif – MLS",
+  "goals_over_time": "Buts par match au fil du temps",
+  "dashboardIntro": "Ce tableau de bord interactif permet de visualiser les performances de joueurs de soccer à l’aide de données synthétiques inspirées de la Major League Soccer (MLS).",
+  "dashboardIntroDetails": "- Graphique linéaire : il présente l’évolution des buts marqués par un joueur sélectionné, match après match.\n\n- Diagramme à barres : il compare trois joueurs emblématiques en fonction de différentes statistiques clés comme les buts, passes décisives ou passes totales.",
+  "noteLabel": "Note",
+  "dataNote": "Les données présentées sont totalement fictives et utilisées uniquement à des fins de démonstration.",
+  "x_label_match": "Numéro du match",
+  "y_label_goals": "Buts",
+  "y_label_stat": "Valeur",
+  "bar_chart_title": "Comparaison des statistiques des joueurs"
+
+  
+}

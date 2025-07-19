@@ -1,0 +1,18 @@
+{
+  "select_player": "Select Player",
+  "select_stat": "Select Statistic",
+  "goals": "Goals",
+  "assists": "Assists",
+  "passes": "Passes",
+  "stat_comparison": "MLS Comparison Dashboard",
+  "goals_over_time": "Goals per Match Over Time",
+  "dashboardIntro": "This interactive dashboard helps visualize soccer player performance using synthetic data inspired by Major League Soccer (MLS).",
+  "dashboardIntroDetails": "- Line chart: Shows the evolution of goals scored by a selected player, match after match.\n\n- Bar chart: Compares three featured players based on key statistics like goals, assists, or total passes.",
+  "noteLabel": "Note",
+  "dataNote": "The data shown here is entirely fake and used only for demonstration purposes.",
+  "x_label_match": "Match Number",
+  "y_label_goals": "Goals",
+  "y_label_stat": "Value",
+  "bar_chart_title": "Player Statistics Comparison"
+
+}
